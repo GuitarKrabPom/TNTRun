@@ -1,18 +1,18 @@
-name: TNTRun
-main: tntrun.TNTRun
+name: GNTRun
+main: tntrun.guitarkrabpom
 softdepend: [WorldEdit, Vault]
 version: 3.2.dev
-author: _Shevchik_
+author: _GuitarKrabPom_
 commands:
   tntrunsetup:
-    description: TNTRun arena setup commands
-    aliases: trsetup
-    usage: Command is invalid
+    description: GNTRun arena setup commands
+    aliases: gntsetup
+    usage: Unknown command
   tntrun:
-    description: TNTRun game commands
-    aliases: tr
-    usage: Use /tr help to show all commands available in plugin
+    description: GNTRun game commands
+    aliases: gnt
+    usage: Use /gnt help to show all commands available in plugin
   tntrunconsole:
-    description: TNTRun console commands
-    aliases: trconsole
-    usage: Command is invalid
+    description: GNTRun console commands
+    aliases: gntconsole
+    usage: Unknown command
